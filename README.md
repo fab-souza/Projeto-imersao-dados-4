@@ -13,3 +13,5 @@ Valor do metro quadrado:
 ![image](https://user-images.githubusercontent.com/67301805/175100132-98f2950d-d900-49b3-bc51-c007d0af74f0.png)
 
 A última aula foi bem densa, foi a que tive mais dificuldade em entender e absorver o conteúdo. Tanto é que nem fiz todos os desafios, mesmo um mês após a Imersão. Ainda estou insegura em relação a Machine Learning, tenho muito o que aprender sobre o assunto e acho melhor buscar este conhecimento aos poucos, ao invés de querer fazer e entender tudo de uma vez e acabar não conseguindo aplicar em outros contextos.
+
+De modo geral, eu gostei muito do que vi, aprendi e fiz neste projeto. Este é o primeiro conteúdo de Data Science que ‘fui mais longe’ e que passei mais tempo buscando formas de resolver os desafios e pesquisando o conceito de algumas coisas nos meus antigos materiais de estatística. Eu sei que a estrutura dele não está como o que foi proposto inicialmente ou o que eu havia imaginado, ou seja, desenvolver um ótimo modelo de predição, com mapa que apresenta a geolocalização dos imóveis e tudo no mesmo arquivo, mas foi o que consegui fazer.
