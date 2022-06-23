@@ -11,3 +11,5 @@ Renda média:
 
 Valor do metro quadrado:
 ![image](https://user-images.githubusercontent.com/67301805/175100132-98f2950d-d900-49b3-bc51-c007d0af74f0.png)
+
+A última aula foi bem densa, foi a que tive mais dificuldade em entender e absorver o conteúdo. Tanto é que nem fiz todos os desafios, mesmo um mês após a Imersão. Ainda estou insegura em relação a Machine Learning, tenho muito o que aprender sobre o assunto e acho melhor buscar este conhecimento aos poucos, ao invés de querer fazer e entender tudo de uma vez e acabar não conseguindo aplicar em outros contextos.
