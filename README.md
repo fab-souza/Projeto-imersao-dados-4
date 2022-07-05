@@ -1,5 +1,8 @@
 # Projeto-imersao-dados-4
 
+![Badge tamanho](https://img.shields.io/github/languages/code-size/fab-souza/Projeto-imersao-dados-4)
+![Badge commit](https://img.shields.io/github/last-commit/fab-souza/Projeto-imersao-dados-4)
+
 Durante os dias 23 a 27 de maio, aconteceu a Imersão Dados 4, oferecida pela Alura e Creditas, ministrada pelo Paulo Silveira, Thiago Gonçalves e Vivian Yamassaki. Foram cinco aulas que mostraram como desenvolver um projeto, em que aprendemos a analisar dados, como se fossemos um cientista de dados, usando Python, Pandas e outras bibliotecas, assim, ao final da Imersão, ser capaz de precificar um imóvel na cidade de São Paulo através de Machine Learning.
 
 Levei mais tempo do que imaginei, mas terminei boa parte dos desafios e consegui documentar o processo. No arquivo do projeto, eu deixei os comentários que fiz durante as aulas e acrescentei conceitos que foram vistos, seguindo o conselho da Vivian, pois tentei imaginar um cenário em que eu apresento os resultados da Imersão para alguém que nunca teve contato com ele anteriormente, ou como uma forma de me lembrar do que fiz, quando rever o projeto daqui a um tempo.
